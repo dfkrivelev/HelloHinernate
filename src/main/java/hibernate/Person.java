@@ -1,5 +1,12 @@
 package hibernate;
 
+/**
+ * Java Prof. Homework #36
+ *
+ * @author Dzmitry Kryvialeu
+ * @version 20.03 - 23.03
+ */
+
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
